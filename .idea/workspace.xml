@@ -21,7 +21,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\develop\apache-maven-3" />
+        <option name="mavenHome" value="C:/develop/apache-maven-3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -39,7 +39,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -149,7 +149,7 @@
       <updated>1601374058391</updated>
       <workItem from="1601374059723" duration="4904000" />
       <workItem from="1601428730365" duration="26640000" />
-      <workItem from="1601553996970" duration="6347000" />
+      <workItem from="1601553996970" duration="6744000" />
     </task>
     <servers />
   </component>
@@ -185,10 +185,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601559990012" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1601467263983">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1601560814885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601467263983" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601560814885" />
     <state x="681" y="261" width="564" height="524" key="StructurePopup" timestamp="1601559657745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
